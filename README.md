@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anannya Chamat</h1>
 <h3 align="center">a final-year IT Engineering student on a mission to conquer the web development realm.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anannya-chamat&label=Profile%20views&color=0e75b6&style=flat" alt="anannya-chamat" /> </p>
-
 - 🔭 I’m currently working on **3.6m DOT's website and databases**
 
 - 🌱 I’m currently learning **Artificial intelligence and Machine learning, cloud computing**
