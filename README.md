@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anannya-chamat&show_icons=true&locale=en&layout=compact" alt="anannya-chamat" /></p>
 
-![](https://komarev.com/ghpvc/?username=anannya-chamat&theme=vue-dark&hide_border=false&bg_color=3b580a)
+![](https://komarev.com/ghpvc/?username=amsanjeev28&theme=vue-dark&hide_border=false&bg_color=3b580a)
