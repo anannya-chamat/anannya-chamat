@@ -18,7 +18,7 @@
 - **Languages & Libraries:** HTML5, CSS, JavaScript (basic), Python (NumPy, pandas, scikit-learn, matplotlib, seaborn, etc.)
 - **Database Systems:** SQL, SQLite  
 - **Operating Systems:** Windows, Linux  
-- **Software & Tools:** Visual Studio Code, Jupyter Notebook, GitHub, Power BI, Advanced Excel, JIRA, MS Office
+- **Software & Tools:** Visual Studio Code, Jupyter Notebook, Git, Power BI, Advanced Excel, JIRA, MS Office
 
 ---
 
