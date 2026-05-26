@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anannya Chamat</h1>
 
-<h3 align="center">Master's student in Information Systems at UTA | Data Analytics | BI Developer | Frontend Web Developer</h3>
+<h3 align="center">MS in Information Systems at UTA | Data Analytics | BI Developer | Frontend Web Developer</h3>
 
 <p align="center">
   <em>Skilled in data analytics, visualization, and business intelligence using Power BI, Tableau, and Python. Proficient in frontend development (HTML, CSS, JavaScript) with a focus on UI/UX. Actively seeking roles in analytics, BI, or web development.</em>
